@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://example.com/your-banner-image.jpg)
+![Banner](https://i.ibb.co/PZykvrG/Slide1.jpg)
 
 <!-- About Me Section -->
 # Hi there, I'm Robius Sani 👋
@@ -10,14 +10,22 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 - 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, Firebase, React, MongoDB, and Express.js.
 - ⚡ Fun fact: I love solving puzzles and playing video games in my free time.
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robiu-Sani&show_icons=true&theme=radical)
+
+-->
+
 
 <!-- GitHub Daily Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Robiu-Sani&theme=radical)
 
-<!-- Top Languages Used -->
+<!-- Top Languages Used
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robiu-Sani&layout=compact&theme=radical)
+
+-->
+
 
 
 <!-- Familiar Tech/Skills -->
