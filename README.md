@@ -28,7 +28,10 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
   <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/></a>
   <a href="https://expressjs.com/"><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js"/></a>
 </p>
+
 ## Currently Learing 
+
+
 <p align='center'>
   <a href="https://nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" title="Next.js"/></a>
   <a href="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular"/></a>
