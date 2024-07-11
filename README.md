@@ -39,10 +39,8 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/></a>
   <a href="https://daisyui.com/"><img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/static/logo.svg" alt="DaisyUI" title="DaisyUI" width="48"/></a>
-
 <a href="https://flowbite.com/"><img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" title="Flowbite" width="48"/></a>
 
-  
 </p>
 <p align="center">
   <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/></a>
