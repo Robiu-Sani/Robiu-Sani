@@ -21,9 +21,13 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 
 
 
-<!-- GitHub Daily Streak -->
+<!-- GitHub Daily Streak 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Robiu-Sani&theme=radical)
+-->
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robiu-Sani&theme=radical" alt="GitHub Stats">
+</p>
 <!-- Top Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robiu-Sani&layout=compact&theme=radical)
