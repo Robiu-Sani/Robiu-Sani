@@ -18,6 +18,9 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 
 
 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Robiu-Sani&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 
 <!-- GitHub Daily Streak -->
@@ -28,7 +31,7 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robiu-Sani&layout=compact&theme=radical)
 
 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robiu-Sani&layout=compact&theme=radical)
+
 
 
 
