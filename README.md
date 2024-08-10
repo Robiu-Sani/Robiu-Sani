@@ -62,7 +62,6 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 
 
 <p align='center'>
-  
   <a href="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" title="Angular"/></a>
   <a href="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" title="Vue.js"/></a>
 </p>
