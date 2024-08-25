@@ -44,10 +44,10 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 
 ### Languages
 <p align="center">
-  <a href=""><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/></a>
-  <a href=""><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/></a>
-  <a href=""><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/></a>
-  <a href=""><img src="/python.png" alt="Python" title="Python"/></a>
+  <a href=""><img src="https://img.icons8.com/color/48/000000/html-5.png" height="70px" alt="HTML5" title="HTML5"/></a>
+  <a href=""><img src="https://img.icons8.com/color/48/000000/css3.png" height="70px" alt="CSS3" title="CSS3"/></a>
+  <a href=""><img src="https://img.icons8.com/color/48/000000/javascript.png" height="70px" alt="JavaScript" title="JavaScript"/></a>
+  <a href=""><img src="/python.png" alt="Python" height="70px" title="Python"/></a>
 </p>
 
 ### Preference
@@ -57,21 +57,21 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 
 ### Frameworks and Libraries
 <p align="center">
-  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/></a>
-  <a href="https://reactjs.org/"><img src="/React.jpg" alt="React" title="React"/></a>
-  <a href="https://nextjs.org/"><img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" title="Next.js"/></a>
-  <a href="https://expressjs.com/"><img src="ex.jpg" alt="Express.js" title="Express.js"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" height="70px" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+  <a href="https://reactjs.org/"><img src="/React.jpg" alt="React" height="70px" title="React"/></a>
+  <a href="https://nextjs.org/"><img src="/next.png" alt="Next.js" height="70px" title="Next.js"/></a>
+  <a href="https://expressjs.com/"><img src="ex.jpg" alt="Express.js" height="70px" title="Express.js"/></a>
 </p>
 
 <p align="center">
-  <a href="https://daisyui.com/"><img src="/daisyui.png" alt="DaisyUI" title="DaisyUI" width="48"/></a>
-  <a href="https://flowbite.com/"><img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" title="Flowbite" width="48"/></a>
+  <a href="https://daisyui.com/"><img src="/daisyui.png" alt="DaisyUI" title="DaisyUI" height="70px"/></a>
+  <a href="https://flowbite.com/"><img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" title="Flowbite" height="70px"/></a>
 </p>
 
 ### Others
 <p align="center">
-  <a href="https://firebase.google.com/"><img src="/firebase.jpg" alt="Firebase" title="Firebase"/></a>
-  <a href="https://www.mongodb.com/"><img src="/mongodb.jpg" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://firebase.google.com/"><img src="/firebase.jpg" alt="Firebase" height="70px" title="Firebase"/></a>
+  <a href="https://www.mongodb.com/"><img src="/mongodb.jpg" alt="MongoDB" height="70px" title="MongoDB"/></a>
 </p>
 
 
