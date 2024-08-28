@@ -66,6 +66,7 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 <p align="center">
   <a href="https://daisyui.com/"><img src="/daisyui.png" alt="DaisyUI" title="DaisyUI" height="50px"/></a>
   <a href="https://flowbite.com/"><img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" title="Flowbite" height="50px"/></a>
+  <a href="https://magicui.design/docs/components/marquee"><img src="/magicui.png" alt="Flowbite" title="Flowbite" height="50px"/></a>
 </p>
 
 ### Others
