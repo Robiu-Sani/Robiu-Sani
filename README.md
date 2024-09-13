@@ -1,6 +1,5 @@
 <!-- Banner Image -->
-<img src="cover.j
-  g" alt="Banner" style="width: 100%;">
+<img src="/gitcover.gif" alt="Banner" style="width: 100%;">
 
 <!-- About Me Section -->
 # Hi there, I'm Robius Sani 👋
