@@ -30,11 +30,10 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robiu-Sani&theme=radical" alt="GitHub Stats">
 </p>
 <br/>
-<!-- Top Languages Used
+<!-- Top Languages Used -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robiu-Sani&layout=compact&theme=radical)
 
--->
 ### Preference
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robiu-Sani&layout=compact&theme=radical" alt="GitHub Stats">
