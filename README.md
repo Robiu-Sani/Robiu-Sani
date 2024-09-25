@@ -18,14 +18,6 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 
 <br/>
 
-<!-- Top Languages Used -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robiu-Sani&layout=compact&theme=radical)
-
-### Preference
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robiu-Sani&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 <!-- Familiar Tech/Skills -->
 ## 🛠️ Familiar Tech/Skills
 
@@ -65,15 +57,26 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 
 <!-- Contact Info -->
 ## 📬 Let's Connect
-Feel free to reach out to me on the following platforms:
-
-- 📧 Email: [hafazrobiussani@gmail.com](mailto:hafazrobiussani@gmail.com)
-- 🌐 Facebook: [Robius Sani Mubarok](https://web.facebook.com/robiussani.mubarok)
-- 🌐 LinkedIn: [Robius Sani Mobarok](https://www.linkedin.com/in/robius-sani-mobarok/)
-- 🐦 Twitter: [@RobiusS4690](https://twitter.com/RobiusS4690)
-- 📸 Instagram: [@robiussani](https://www.instagram.com/robiussani)
-- 💬 WhatsApp: [+8801617688805](https://wa.me/8801617688805)
-- 📞 Telegram: [+8801617688805](https://t.me/+8801617688805)
+<p align="center">
+  <a href="mailto:hafazrobiussani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hafazrobiussani@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://web.facebook.com/robiussani.mubarok">
+    <img src="https://img.shields.io/badge/Facebook-Robius%20Sani-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.linkedin.com/in/robius-sani-mobarok/">
+    <img src="https://img.shields.io/badge/LinkedIn-Robius%20Sani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/RobiusS4690">
+    <img src="https://img.shields.io/badge/Twitter-@RobiusS4690-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://wa.me/8801617688805">
+    <img src="https://img.shields.io/badge/WhatsApp-+8801617688805-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://t.me/+8801617688805">
+    <img src="https://img.shields.io/badge/Telegram-+8801617688805-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 <!-- GitHub Profile Views -->
 <p align="center">
