@@ -19,34 +19,35 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 <br/>
 
 <!-- Familiar Tech/Skills -->
+<!-- Familiar Tech/Skills -->
 ## 🛠️ Familiar Tech/Skills
 
 ### Languages
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png" height="50px" alt="HTML5" title="HTML5"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png" height="50px" alt="CSS3" title="CSS3"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png" height="50px" alt="JavaScript" title="JavaScript"/></a>
-  <a href="#"><img src="/python.png" alt="Python" height="50px" title="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 </p>
 
 ### Frameworks and Libraries
 <p align="center">
-  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" height="50px" alt="Tailwind CSS" title="Tailwind CSS"/></a>
-  <a href="https://reactjs.org/"><img src="/React.jpg" alt="React" height="50px" title="React"/></a>
-  <a href="https://nextjs.org/"><img src="/next.png" alt="Next.js" height="50px" title="Next.js"/></a>
-  <a href="https://expressjs.com/"><img src="ex.jpg" alt="Express.js" height="50px" title="Express.js"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
 </p>
 
 <p align="center">
-  <a href="https://daisyui.com/"><img src="/daisyui.png" alt="DaisyUI" title="DaisyUI" height="50px"/></a>
-  <a href="https://flowbite.com/"><img src="https://flowbite.com/docs/images/logo.svg" alt="Flowbite" title="Flowbite" height="50px"/></a>
-  <a href="https://magicui.design/docs/components/marquee"><img src="/magicui.png" alt="MagicUI" title="MagicUI" height="50px"/></a>
+  <a href="https://daisyui.com/"><img src="https://img.shields.io/badge/DaisyUI-5A67D8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"></a>
+  <a href="https://flowbite.com/"><img src="https://img.shields.io/badge/Flowbite-44A8F0?style=for-the-badge&logo=flowbite&logoColor=white" alt="Flowbite"></a>
+  <a href="https://magicui.design/docs/components/marquee"><img src="https://img.shields.io/badge/MagicUI-5D5C61?style=for-the-badge&logo=magicui&logoColor=white" alt="MagicUI"></a>
 </p>
 
 ### Others
 <p align="center">
-  <a href="https://firebase.google.com/"><img src="/firebase.jpg" alt="Firebase" height="50px" title="Firebase"/></a>
-  <a href="https://www.mongodb.com/"><img src="/mongodb.jpg" alt="MongoDB" height="50px" title="MongoDB"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
 </p>
 
 ## Currently Learning
