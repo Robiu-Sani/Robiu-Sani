@@ -19,7 +19,6 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 <br/>
 
 <!-- Familiar Tech/Skills -->
-<!-- Familiar Tech/Skills -->
 ## 🛠️ Familiar Tech/Skills
 
 ### Languages
