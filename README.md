@@ -4,7 +4,7 @@
 <!-- About Me Section -->
 # Hi there, I'm Robius Sani 👋
 
-I'm a passionate developer with a strong interest in web technologies. I enjoy learning and applying new skills, and I'm always up for a challenge. Here's a bit about my journey in the tech world:
+I'm a passionate developer with a strong interest in web technologies. I enjoy learning and applying new skills, and I'm always up for a challenge. Here's a bit about my journey in the tech world:▪️▫️▪️▫️
 
 - 🌱 I’m currently learning Next.js and plan to learn Angular and Vue.
 - 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, Firebase, React, MongoDB, and Express.js.
