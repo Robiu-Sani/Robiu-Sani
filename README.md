@@ -11,10 +11,10 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 - ⚡ Fun fact: I love solving puzzles and playing video games in my free time.
 - 🧑‍💻 I also enjoy working on projects that integrate both front-end and back-end technologies.
 
-<!-- GitHub 
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robiu-Sani&theme=radical" alt="GitHub Stats">
-</p> Stats -->
+</p> 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robiu-Sani&theme=radical&v=1" alt="GitHub Stats">
