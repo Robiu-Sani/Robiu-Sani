@@ -13,7 +13,7 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robiu-Sani&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robiu -Sani&theme=radical" alt="GitHub Stats">
 </p> 
 
 <p align="center">
