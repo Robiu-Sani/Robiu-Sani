@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="/cover.jpg" alt="Banner" style="width:100%;">
+<img src="/cover1.jpg" alt="Banner" style="width:100%;">
 
 <!-- About Me Section -->
 # Hi there, I'm Robius Sani 👋
