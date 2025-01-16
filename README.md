@@ -12,9 +12,6 @@ I'm a passionate developer with a strong interest in web technologies. I enjoy l
 - 🧑‍💻 I also enjoy working on projects that integrate both front-end and back-end technologies.
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robiu -Sani&theme=radical" alt="GitHub Stats">
-</p> 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robiu-Sani&theme=radical&v=1" alt="GitHub Stats">
