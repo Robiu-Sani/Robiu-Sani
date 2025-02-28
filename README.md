@@ -7,8 +7,8 @@
 I'm a passionate developer with a strong interest in web technologies. I enjoy learning and applying new skills, and I'm always up for a challenge. Here's a bit about my journey in the tech world:▪️▫️▪️▫️
 
 - 🌱 I’m currently learning full stack path and plan to learn Angular and Vue.
-- 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, Firebase, React, MongoDB, and Express.js.
-- ⚡ Fun fact: I love solving puzzles and playing video games in my free time.
+- 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, Firebase, React,nextjs , MongoDB, and Express.js.
+- ⚡ Fun fact: I love solving puzzles in my free time.
 - 🧑‍💻 I also enjoy working on projects that integrate both front-end and back-end technologies.
 
 <!-- GitHub Stats -->
