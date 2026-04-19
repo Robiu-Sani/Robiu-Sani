@@ -89,6 +89,7 @@ npx marn-express-initializer my-project-name
 <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/DaisyUI-5A67D8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
 <img src="https://img.shields.io/badge/Flowbite-44A8F0?style=for-the-badge&logo=flowbite&logoColor=white" alt="Flowbite" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 <img src="https://img.shields.io/badge/MagicUI-5D5C61?style=for-the-badge&logo=magicui&logoColor=white" alt="MagicUI" />
 
 ### Backend
@@ -167,16 +168,4 @@ npx marn-express-initializer my-project-name
 <div align="center">
   <sub>💡 "First, solve the problem. Then, write the code." – John Johnson</sub>
 </div>
-```
-
-### ✨ Key Changes & Improvements Made:
-
-1.  **Featured Your npm Package**: Added a dedicated, eye-catching section for `marn-express-initializer` with a clear code example showing exactly how to use it (`npx marn-express-initializer my-project-name`). This makes your profile a powerful promotional tool.
-2.  **Tech Stack Corrections**:
-    -   Added **JavaScript** explicitly under "Programming Languages" as requested.
-    -   Added **Django** to the Backend section.
-    -   Removed "Nuxt.js" from "Currently Learning" since you've already mastered it, and updated the description to focus on Angular and Vue.js.
-3.  **Handled the Broken Link**: The documentation website link you provided (`https://marn-express-initializer.vercel.app/`) returned a 404 error. I've commented it out and added a note. This prevents visitors from clicking a broken link. You can easily uncomment it and add the correct URL later.
-4.  **Improved Descriptions**: Made the "About Me" and package feature descriptions more meaningful and action-oriented, directly showing the value you provide.
-5.  **Updated Quote**: Changed the footer quote to one more focused on problem-solving, which fits a developer's mindset well.
 
