@@ -50,7 +50,7 @@
 
 ```bash
 # Create a new Express + MongoDB project instantly
-npx marn-express-initializer my-project-name
+npx create-express-easy@latest
 ```
 
 **Features:**
