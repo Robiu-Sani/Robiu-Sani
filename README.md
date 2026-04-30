@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently mastering the **full-stack path** and planning to dive deep into **Angular** and **Vue.js**.
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, Firebase, React, Next.js, MongoDB, Express.js** – I love helping fellow devs!
+- 💬 Ask me about **Express.js, Next.js, MongoDB, React.js, JavaScript, Firebase, HTML, CSS, Tailwind CSS** – I love helping fellow devs!
 - ⚡ Fun fact: I'm a puzzle enthusiast – solving puzzles sharpens my problem-solving skills for coding challenges.
 - 🚀 I enjoy integrating **front-end** and **back-end** technologies to build seamless, full-featured applications.
 - 📦 I create tools to help the dev community. Check out my npm package below!
